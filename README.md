@@ -1,11 +1,11 @@
-# Clinica Odontologica
+# Clinica Odontológica
 
 
 ![Capa do Projeto](https://picsum.photos/850/280)
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+<p>O intuito desse software, é facilitar o gerenciamento de pacientes em clinicas odontológicas.</p>
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -25,32 +25,40 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Requisitos Funcionais 
 
-- [x] *Cadastrar Usuário*
-- [x] *Fazer Login*
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [ ]  Cadastrar Usuário
+- [ ]  Manter pacientes
+- [ ]  Gerar relatorios
+- [ ]  Gerar alertas
+
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Java](https://www.java.com/pt-BR/)
+- [Astah](https://astah.net)
+- [Mysql](https://www.mysql.com)
 
 # Contribuição
 
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
+Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+Mateus Costa(https://github.com/mateus-costa1?tab=repositories)
+Lucas Silva(https://github.com/lucassilva0)
+Aline Pereira(https://github.com/Aline-Pereira98/)
+Valdeno(https://github.com/VOS04)
+Ivan(https://github.com/Iv4N2)
+
 
 # Licença
 
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+Copyright <2021> <COPYRIGHT HOLDER>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Agradecimentos
 
