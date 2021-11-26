@@ -5,7 +5,7 @@
 
 # Sobre o Projeto
 
-<p>O intuito desse software, é facilitar o gerenciamento de pacientes em clinicas odontológicas.</p>
+<p>O intuito desse software e viabilizar o gerencimentos dos pacientes , assim como suas consultas e cadastros. E administrar o estoque de equipamentos e insumos.</p>
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
