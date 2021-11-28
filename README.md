@@ -52,13 +52,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Licença
 
-Copyright <2021> <COPYRIGHT HOLDER>
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-.[License](License)
+.[Licença](https://github.com/Aline-Pereira98/clinica-odontologica/blob/ad4059d6c07c622293bf9eef7bf6a1e70c8f6051/LICENSE)
 # Agradecimentos
 
 Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
