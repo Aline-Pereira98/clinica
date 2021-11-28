@@ -38,9 +38,7 @@
 - [Mysql](https://www.mysql.com)
 
 # Contribuição
-
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
-
+https://github.com/profdiegoaugusto/template-repositorio/blob/main/CONTRIBUTING.md
 # Autores
 
 - [Mateus Costa](https://github.com/mateus-costa1?tab=repositories)
